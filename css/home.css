@@ -1,0 +1,156 @@
+#bodystyle{
+    font-family: Arial,Verdana,Sans-serif;
+    font-size:18px;
+}
+#bodystyle h3{
+    font: bold 20px/40px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 100px;
+    margin-top: -100px;
+}
+
+#header{
+    width:100%;
+    height: auto;
+    margin-top: 10px;
+}
+#content{
+     width:80%;
+     height: auto;
+     margin-left:10%;
+     margin-right:10%;
+     margin-top: 100px;
+     font-size: 16px;
+ }
+#content-backup{
+    width:80%;
+    height: auto;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 50px;
+    font-size: 16px;
+}
+#footer{
+    width:100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+#personal-infor{
+    width:100%;
+    height: auto;
+    padding: 20px 20px 20px 0px;
+    margin-top: 10px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#short-bio{
+    width:100%;
+    height: auto;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    background-color:#ECF0F1;
+}
+
+#news-events{
+    width:100%;
+    height: 200px;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+
+#talks{
+    width:100%;
+    height: 200px;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+#service{
+    width:100%;
+    height:auto;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+
+#selected-publication{
+    width:100%;
+    height: auto;
+    margin-top:10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+#selected-publication hr{
+    height:1px;
+    border:none;
+    border-top:1px dotted #185598;
+}
+
+#current-members{
+    width:100%;
+    height:auto;
+    margin-top:10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+
+#past-members{
+    width:100%;
+    height:auto;
+    margin-top:10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ECF0F1;
+    border-radius: 5px;
+}
+
+#footbody{
+    width:100%;
+    height:50px;
+    margin-bottom: 10px;
+    background-color:#ECF0F1;
+    text-align: center;
+
+}
+#footbody label{
+    color: #34495E;
+    margin-top: 5px;
+    font-size:18px ;
+
+}
+
+.row{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+    padding: 10px 10px 10px 0px;
+}
+
+.row1{
+    width:20%;
+    height:auto;
+    padding-top:5px ;
+    text-align: center;
+    font-size:18px;
+    font-weight: bold;
+    float:left;
+}
+
+.row2{
+    width:80%;
+    height:auto;
+    float:left;
+}
+
+
+
+
+

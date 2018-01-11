@@ -1,11 +1,12 @@
 #bodystyle{
     font-family: Arial,Verdana,Sans-serif;
     font-size:18px;
+    background-color:#ECF6F6;
 }
 #bodystyle h3{
     font: bold 20px/40px "Helvetica Neue", Helvetica, Arial, sans-serif;
-    padding-top: 100px;
-    margin-top: -100px;
+    padding-top: 80px;
+    margin-top: -80px;
 }
 
 #header{
@@ -18,65 +19,48 @@
      height: auto;
      margin-left:10%;
      margin-right:10%;
-     margin-top: 100px;
+     padding-top: 80px;
      font-size: 16px;
+
  }
-#content-backup{
-    width:80%;
-    height: auto;
-    margin-left:10%;
-    margin-right:10%;
-    margin-top: 50px;
-    font-size: 16px;
+
+#content label{
+    font-size:18px ;
+    font-weight: bold;
 }
+
 #footer{
     width:100%;
     height: auto;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 #personal-infor{
     width:100%;
     height: auto;
-    padding: 20px 20px 20px 0px;
     margin-top: 10px;
-    background-color:#ECF0F1;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 0px;
+    background-color:#ffffff;
     border-radius: 5px;
     overflow: hidden;
 }
-
-#short-bio{
-    width:100%;
-    height: auto;
-    margin-top: 10px;
-    padding: 20px 20px 20px 20px;
-    border-radius: 5px;
-    background-color:#ECF0F1;
-}
-
-#news-events{
+#news{
     width:100%;
     height: 200px;
     margin-top: 10px;
+    margin-bottom: 40px;
     padding: 20px 20px 20px 20px;
-    background-color:#ECF0F1;
-    border-radius: 5px;
-}
-
-#talks{
-    width:100%;
-    height: 200px;
-    margin-top: 10px;
-    padding: 20px 20px 20px 20px;
-    background-color:#ECF0F1;
+    background-color:#ffffff;
     border-radius: 5px;
 }
 #service{
     width:100%;
     height:auto;
     margin-top: 10px;
+    margin-bottom: 40px;
     padding: 20px 20px 20px 20px;
-    background-color:#ECF0F1;
+    background-color:#ffffff;
     border-radius: 5px;
 }
 
@@ -84,14 +68,24 @@
     width:100%;
     height: auto;
     margin-top:10px;
+    margin-bottom: 40px;
     padding: 20px 20px 20px 20px;
-    background-color:#ECF0F1;
+    background-color:#ffffff;
     border-radius: 5px;
 }
 #selected-publication hr{
     height:1px;
     border:none;
     border-top:1px dotted #185598;
+}
+
+#team{
+    width:100%;
+    height:auto;
+    margin-top:10px;
+    padding: 20px 20px 20px 20px;
+    background-color:#ffffff;
+    border-radius: 5px;
 }
 
 #current-members{
@@ -116,7 +110,7 @@
     width:100%;
     height:50px;
     margin-bottom: 10px;
-    background-color:#ECF0F1;
+    background-color: #ffffff;
     text-align: center;
 
 }
@@ -145,9 +139,19 @@
 }
 
 .row2{
-    width:80%;
+    width:70%;
     height:auto;
     float:left;
+}
+.navbar.navbar-default.navbar-fixed-top.mystyle{
+    border-radius: 0px;
+    background-color: #ffffff;
+}
+.nav.navbar-nav.mystyle{
+    padding-left: 50px;
+}
+.nav.navbar-nav.navbar-right.mystyle{
+   padding-right: 50px;
 }
 
 
